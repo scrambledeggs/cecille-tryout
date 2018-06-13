@@ -1,4 +1,5 @@
 Hi Cecille,
+
 Your task for today is to create a simple Rails application. We're doing this in order to get a feel for how you work. Don't hesitate to ask questions. 
 
 Here are the specs for you project:
